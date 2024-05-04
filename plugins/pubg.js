@@ -31,7 +31,7 @@ CURRENTLY RUNNING ON BETA VERSION!!
    * © 2023 Suhail-Md ✭ ⛥.
    * plugin date : 3/28/2023
 **/
-let Owner = "Suhail";
+let Owner = "SHAHAN";
 
 
 /*
