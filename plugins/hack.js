@@ -68,7 +68,7 @@ smd({
 },
 
 async(citel) => {    
-await citel.send("Injecting Malware")   
+await citel.send("Injecting Malware By Shahan")   
 await sleep(2000)    
 await citel.send(" █ 10%")    
 await sleep(1000)    
@@ -103,7 +103,7 @@ await sleep(1000)
 await citel.send(" SUCCESSFULLY SENT DATA AND Connection disconnected")    
 await sleep(1000)
 
-    return await citel.send('BACKLOGS CLEARED');
+    return await citel.send('Hey Fool You Are Pranked 😂');
 
 }
 
